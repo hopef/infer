@@ -8,7 +8,7 @@
 - 🚀 Pre-processing about 1ms
 - 🚀 Post-processing about 0.5ms
 ![](bus.jpg)
-
+ 
 # Description
 - cpm.hpp Producer-consumer model
     - For direct inference tasks, cpm.hpp can be turned into an automatic multi-batch producer-consumer model
